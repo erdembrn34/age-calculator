@@ -1,3 +1,6 @@
+🕒 Age Calculator in Years, Months, and Days
+This Python script calculates a user's age not only in years, but also in months and days based on the current system date. It takes leap years into account for precise calculation.
+
 📌 Features
 Takes user's name and age (in years) as input
 
